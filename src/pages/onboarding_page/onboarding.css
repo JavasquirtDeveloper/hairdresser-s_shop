@@ -1,0 +1,44 @@
+
+.App {
+text-align: center;
+align-items: center;
+margin: 0px auto;
+
+}
+
+.default-logo {
+  display:inline-block;
+border: 3px solid  #87547A;
+border-radius: 50%;
+margin-top: 30px;
+}
+
+.default-logo-text {
+  font-size: 36px;
+  padding: 45px 20px  45px 20px;
+
+}
+
+
+.header-block{
+  height: 5002;
+
+text-align: start;
+}
+
+.gradient{
+  background: url('../../assets/svg/header_gradient.svg') no-repeat center / cover;
+}
+
+.header{
+  width: 1441px;
+  margin: 0 auto;
+  background: url('../../assets/img/header_woman.png') no-repeat center top / cover;
+}
+
+.header-block-text{
+  margin-bottom: 50px;
+  font-size: 96px;
+  font-weight: bold;
+}
+
