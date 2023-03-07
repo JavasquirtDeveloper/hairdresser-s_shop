@@ -1,25 +1,32 @@
 import React from 'react'
-import '../../onboarding_page/onboarding.css'
-import Vector from '../../../assets/svg/header_vector.svg'
-import VectorGradient from '../../../assets/svg/header_gradient.svg'
-import DefaultLogo from '../components/default_logo'
+import '../../onboarding_page/onboarding_page'
+import PreviewBlock from './preview_block'
+import AboutUs from './about_us'
+import Services from './services'
+import AboutSalons from './about_salons'
+
 
 function HeaderBlock() {
   return (
-    <div className="App">
-              <DefaultLogo />
-<div className='header-block'>
-  <h1 className='header-block-text'>Подчеркни <br/> свою <br/> красоту</h1>
-  <div className="gradient">
-
+  <div className='App'>
+    <PreviewBlock/>
+    <AboutUs/>
+    <Services/>
+    <AboutSalons/>
   </div>
-  {/* <img src={Vector} alt="" />
-  <img src={VectorGradient} alt="" /> */}
-
-</div>
-
-    </div>
   )
 }
 
 export default HeaderBlock
+
+
+
+
+
+
+
+
+
+
+
+
