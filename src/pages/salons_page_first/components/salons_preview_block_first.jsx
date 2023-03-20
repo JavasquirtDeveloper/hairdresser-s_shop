@@ -9,7 +9,6 @@ export default function SalonsPreviewBlockFirst() {
       <div className='back-button-wrapper'>
       <BackButton text='Вернуться на главную страницу'/>
         </div>
-        {/* <div className='salons-button-arrow'></div> */}
         <div className='salons-default-logo-container'><DefaultLogo/></div>
         
         <h1 className='salons-header-block-text'>Наши салоны</h1>

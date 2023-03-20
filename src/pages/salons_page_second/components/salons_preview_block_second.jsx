@@ -9,9 +9,7 @@ export default function SalonsPreviewBlockSecond() {
       <div className='back-button-wrapper'>
       <BackButton text='Вернуться на главную страницу'/>
         </div>
-        {/* <div className='salons-button-arrow'></div> */}
         <div className='salons-default-logo-container'><DefaultLogo/></div>
-        
         <h1 className='salons-header-block-text-second'>Наши салоны</h1>
         <div className='salons-vector1-second'></div>
         <div className='salons-gradient-second'></div>
