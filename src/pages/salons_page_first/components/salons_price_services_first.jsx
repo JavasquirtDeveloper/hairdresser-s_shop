@@ -15,7 +15,7 @@ export default function PriceServicesFirst() {
           <div className='salons-photo-haircut'></div>
           <div className='rectangle-1'></div>
           <div className='salons-haircut-background'>
-          <div className='salons-haircut-text'>Стрижка</div>
+          <div className='salons-haircut-text'><text>Стрижка</text></div>
           </div>
           
           <div className='salons-haircut-price-text'>
@@ -36,7 +36,7 @@ export default function PriceServicesFirst() {
           <div className='salons-photo-coloring'></div>
           <div className='rectangle-2'></div>
           <div className='salons-coloring-background'>
-          <div className='salons-coloring-text'>Окрашивание</div>
+          <div className='salons-coloring-text'><text>Окрашивание</text></div>
           </div>
           <div className='salons-coloring-price-text'>
             <li>Обесцвечивание/ мелирование -<br/>1000-4100 ₽</li>
@@ -49,7 +49,7 @@ export default function PriceServicesFirst() {
           <div className='salons-photo-manicure'></div>
           <div className='rectangle-3'></div>
           <div className='salons-manicure-background'>
-          <div className='salons-manicure-text'>Маникюр</div>
+          <div className='salons-manicure-text'><text>Маникюр</text></div>
           </div>
           <div className='salons-manicure-price-text'>
             <li>Маникюр без покрытия - 400 ₽</li>
@@ -70,7 +70,7 @@ export default function PriceServicesFirst() {
           <SignUpButtonOne text='Записаться'/>
           </div>
           <div className='futor-wrapper'>
-          <div className='futor-text'>Подробнее о стоимости услуг вы можете узнать,<br/>связавшись с нами или в наших салонах</div>
+          <div className='futor-text'><text>Подробнее о стоимости услуг вы можете узнать,<br/>связавшись с нами или в наших салонах</text></div>
           </div>
         </div>
         </div>
