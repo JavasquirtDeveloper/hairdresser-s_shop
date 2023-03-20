@@ -1,4 +1,3 @@
-
 .App {
   text-align: center;
   align-items: center;
@@ -32,7 +31,7 @@
 
   .header{
     display: flex;
-    width: 1441px;
+    max-width: 1441px;
     height: 859px;
     margin: 0 auto;
     background: url('../../assets/img/header_woman.png') no-repeat center top / cover; 
@@ -56,7 +55,6 @@
   .button-info-more {
     justify-content: center;
     padding: 15px 78.5px;
-    gap: 10px;
     position: absolute;
     width: 393px;
     height: 70px;
@@ -83,12 +81,10 @@
   .button-sign-up {
     margin: 0px auto;
     padding: 15px 103px;
-    gap: 10px;
     width: 388px;
     height: 70px;
     background-color: #87547A;
     border-radius: 40px;
-    
     font: bold 36px Arial;
     font-family: 'Philosopher';
     font-style: normal;
@@ -152,7 +148,7 @@
 
   .vector1 {
     margin-top: 14px;
-    width: 1441px;
+    max-width: 100%;
     height: 264px;
     background: url('../../assets/svg/vectors/header_vector.svg') no-repeat center top / cover;
     z-index: 1;
@@ -160,7 +156,7 @@
   
   .gradient {
     margin-top: -40px;
-    width: 1441px;
+    max-width: 100%;
     height: 186px;
     background: url('../../assets/svg/vectors/header_gradient.svg') no-repeat center top / cover;
     z-index: 1;
@@ -322,7 +318,7 @@
 
 
   .vector2 {
-    width: 1441px;
+    max-width: 100%;
     height: 264px;
     margin-top: -350px;
     background: url('../../assets/svg/vectors/Vector\ 2.svg') no-repeat center top / cover;
@@ -331,7 +327,7 @@
   
   .gradient2 {
     margin-top: -15px;
-    width: 1441px;
+    max-width: 100%;
     height: 311px;
     background: url('../../assets/svg/Rectangle\ 32.svg') no-repeat center top / cover;
   }
@@ -364,14 +360,14 @@
     position: absolute;
     margin-top: -194px;
     width: 1441px;
-    height: 3050px;
+    height: 500px;
     background: url(../../assets/svg/vectors/Vector\ 3.svg) no-repeat center top / cover;
   }
 
    .gradient3 {
     position: absolute;
     width: 1441px;
-    height: 2892px;
+    height: 2300px;
     background: url(../../assets/svg/Rectangle\ 51.svg) no-repeat center top / cover;
   } 
   
@@ -427,7 +423,6 @@
 
   .button-sign-up-one {
     padding: 15px 103px;
-    gap: 10px;
     width: 388px;
     height: 70px;
     background-color: #87547A;
@@ -526,7 +521,6 @@
 
   .button-sign-up-two {
     padding: 15px 103px;
-    gap: 10px;
     width: 388px;
     height: 70px;
     background-color: #87547A;
@@ -624,7 +618,6 @@
   }
   .button-sign-up-three {
     padding: 15px 103px;
-    gap: 10px;
     width: 388px;
     height: 70px;
     background-color: #87547A;
@@ -659,6 +652,10 @@
     background: url(../../assets/svg/vectors/Vector\ \(6\).svg) no-repeat center top / cover;
   }
 
+  .wrapper-futor {
+    display: flex;
+  }
+
   .photo-futor {
     margin-top: 99px;
     width: 1441px;
@@ -667,7 +664,7 @@
   }
 
   .logo-futor {
-    margin-top: -10px;
+    margin-top: -20px;
     position: relative;
   }
 

@@ -1,9 +1,14 @@
-import React from 'react'
+import React from 'react';
 
 function DefaultButton({text}) {
+  function scrollToBlock() {
+    const block = document.querySelector('#block');
+    block.scrollIntoView({ behavior: 'smooth' });
+  }
+
   return (
-     <button className='button-info-more'>{text}</button>
-  )
+    <button onClick={scrollToBlock} className='button-info-more' id="scrollBtn">{text}</button>
+  );
 }
 
 export default DefaultButton;

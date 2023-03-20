@@ -1,7 +1,6 @@
 import React from 'react'
 import DefaultLogo from '../../../components/default_logo'
 import InfoMoreButton from '../../../components/info_more_button'
-import SignUpButton from '../../../components/sign_up_button'
 import WhpLogo from '../../../assets/svg/whp/Vector-1-whp.svg'
 import WhpLogo_2 from '../../../assets/svg/whp/Vector-2-whp.svg'
 import InstLogo from '../../../assets/svg/inst/Vector-inst.svg'
@@ -17,15 +16,12 @@ export default function AboutSalons() {
       <section className='our-salons'>
         <div className='header-block4'>
         <div className='wrapper-header-block4'>
-          <h4 className='header-block-text4'>Наши салоны</h4>
+          <h4 className='header-block-text4' id="block">Наши салоны</h4>
           <div className='hair-scissors'></div>
           <div className='vector3'></div>
           <div className='gradient3'></div>
-  
-          
           <div className='wrapper-salon-1'>
           <div className='photo-salon-1'></div>
-          
           <div className='wrapper-wrapper-salon-1'>
           <div className='address-salon-1'>Вокзальная 21 г<br/>(здание ЖД вокзала)</div>
           <div className='text-salon-1'>Одна из самых<br/>первых<br/>парикмахерских<br/>нашей<br/>небольшой сети</div>
@@ -40,9 +36,7 @@ export default function AboutSalons() {
           <div className='vector-salon-1'></div>
           </div>
           </div>
-          
           <div className='line8'></div>
-  
           <div className='wrapper-salon-2'>
           <div className='photo-salon-2'></div>
           <div className='wrapper-wrapper-salon-2'>
@@ -58,7 +52,6 @@ export default function AboutSalons() {
           </div>
           </div>
           <div className='line9'></div>
-  
           <div className='wrapper-salon-3'>
           <div className='photo-salon-3'></div>
           <div className='wrapper-wrapper-salon-3'>
@@ -72,11 +65,8 @@ export default function AboutSalons() {
           </div>
           <div className='vector-salon-3'></div>
           </div>
-          
           </div>
-          
           <div>
-          
             <div className='wrapper-futor'>
             <div className='photo-futor'>
             <div className='logo-futor'><DefaultLogo/></div>
