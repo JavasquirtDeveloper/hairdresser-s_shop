@@ -13,20 +13,20 @@ export default function Services() {
           <BackgroundCirclesSecond/>
           </div>
           <div className='man-haircuts'>
-          <div className='man-haircuts-text'>Мужские стрижки</div>
+          <div className='man-haircuts-text'><text>Мужские стрижки</text></div>
           </div>
           <div className='wrapper-ellipse-block-2'>
           <BackgroundCirclesFirst/>
           </div>
   
         <div className='woman-haircuts'>
-        <div className='woman-haircuts-text'>Женские стрижки</div>
+        <div className='woman-haircuts-text'><text>Женские стрижки</text></div>
         </div>
         <div className='wrapper-ellipse-block-3'>
           <BackgroundCirclesSecond/>
           </div>
         <div className='manicure'>
-        <div className='manicure-text'>Маникюр</div>
+        <div className='manicure-text'><text>Маникюр</text></div>
         </div>
         <div className='button-sign-up-block-1'>
         <SignUpButton text='Записаться'/>

@@ -23,8 +23,8 @@ export default function AboutSalons() {
           <div className='wrapper-salon-1'>
           <div className='photo-salon-1'></div>
           <div className='wrapper-wrapper-salon-1'>
-          <div className='address-salon-1'>Вокзальная 21 г<br/>(здание ЖД вокзала)</div>
-          <div className='text-salon-1'>Одна из самых<br/>первых<br/>парикмахерских<br/>нашей<br/>небольшой сети</div>
+          <div className='address-salon-1'><text>Вокзальная 21 г<br/>(здание ЖД вокзала)</text></div>
+          <div className='text-salon-1'><text>Одна из самых<br/>первых<br/>парикмахерских<br/>нашей<br/>небольшой сети</text></div>
           <div className='wrapper-sign-up-button-2'>
           <div className='button-sign-up-block-2'>
           <SignUpButtonOne text='Записаться'/>
@@ -40,8 +40,8 @@ export default function AboutSalons() {
           <div className='wrapper-salon-2'>
           <div className='photo-salon-2'></div>
           <div className='wrapper-wrapper-salon-2'>
-          <div className='address-salon-2'>Караная Муратова, д. 6</div>
-          <div className='text-salon-2'>Самый<br/>прогрессивный салон<br/>нашего города</div>
+          <div className='address-salon-2'><text>Караная Муратова, д. 6</text></div>
+          <div className='text-salon-2'><text>Самый<br/>прогрессивный салон<br/>нашего города</text></div>
           <div className='button-sign-up-block-3'>
           <SignUpButtonTwo text='Записаться'/>
           </div>
@@ -55,8 +55,8 @@ export default function AboutSalons() {
           <div className='wrapper-salon-3'>
           <div className='photo-salon-3'></div>
           <div className='wrapper-wrapper-salon-3'>
-          <div className='address-salon-3'>Набережная 3/4(кв. 3)</div>
-          <div className='text-salon-3'>Самый<br/>уютный<br/>салон</div>
+          <div className='address-salon-3'><text>Набережная 3/4(кв. 3)</text></div>
+          <div className='text-salon-3'><text>Самый<br/>уютный<br/>салон</text></div>
           <div className='button-sign-up-block-4'>
           <SignUpButtonThree text='Записаться'/>
           </div>
@@ -74,7 +74,7 @@ export default function AboutSalons() {
             </div>
             <div className='wrapper-contacts'>
               <div className='wrapper-wrapper-contacts-us'>
-              <div className='contact-us'>Связаться с нами в<br/>социальных сетях</div>
+              <div className='contact-us'><text>Связаться с нами в<br/>социальных сетях</text></div>
               <div className='wrapper-social'>
               <div className='vk'>
                 <img className='vk-logo' src={VkLogo} alt=''></img>
@@ -92,8 +92,8 @@ export default function AboutSalons() {
               </div>
               </div>
               <div className='wrapper-wrapper-contacts'>
-              <div className='contacts'>Контакты</div>
-              <div className='numbers'>+73473330031<br/>+79177332809</div>
+              <div className='contacts'><text>Контакты</text></div>
+              <div className='numbers'><text>+73473330031<br/>+79177332809</text></div>
               </div>
               </div>  
             </div> 
