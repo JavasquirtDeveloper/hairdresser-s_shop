@@ -190,7 +190,7 @@
     width: 605px;
     height: 403px;
     margin-top: 91px;
-    background: url(../../assets/jpg/hair-tools-on-white-towel\ 1.jpg) no-repeat center top / cover;
+    background: url(../../assets/jpg/about-us-photo.jpg) no-repeat center top / cover;
     z-index: 2;
   }
 
@@ -212,7 +212,7 @@
     height: 87px;
     top: 140px;
     left: 86px;
-    background: url(../../assets/svg/lines/Line\ 4.svg) no-repeat center top / cover;
+    background: url(../../assets/svg/lines/Line-4.svg) no-repeat center top / cover;
     z-index: 1;
   }
   
@@ -222,7 +222,7 @@
     height: 88px;
     top: 503px;
     left: 244px;
-    background: url(../../assets/svg/lines/Line\ 5.svg) no-repeat center top / cover;
+    background: url(../../assets/svg/lines/Line-5.svg) no-repeat center top / cover;
     z-index: 1;
   }
 
@@ -250,7 +250,7 @@
     margin-top: 44px;
     width: 816px;
     height: 237px;
-    background: url(../../assets/img/two-sets-of-barber-scissors\ 1.png) no-repeat center top / cover;
+    background: url(../../assets/img/man-haircuts-photo.png) no-repeat center top / cover;
     border-radius: 20px;
   }
 
@@ -272,7 +272,7 @@
     width: 816px;
     height: 237px;
     margin-top: 44px;
-    background: url(../../assets/img/hair-scissors-on-white\ 1.png) no-repeat center top / cover;
+    background: url(../../assets/img/woman-haircuts-photo.png) no-repeat center top / cover;
     border-radius: 20px;
     
   }
@@ -296,7 +296,7 @@
     width: 816px;
     height: 237px;
     margin-top: 44px;
-    background: url(../../assets/img/kaboompics_Nails\ 1.png) no-repeat center top / cover;
+    background: url(../../assets/img/manicure-photo.png) no-repeat center top / cover;
     border-radius: 20px;
     z-index: 3;
   }
@@ -321,7 +321,7 @@
     max-width: 100%;
     height: 264px;
     margin-top: -350px;
-    background: url('../../assets/svg/vectors/Vector\ 2.svg') no-repeat center top / cover;
+    background: url('../../assets/svg/vectors/Vector-2.svg') no-repeat center top / cover;
     z-index: 2;
   }
   
@@ -329,7 +329,7 @@
     margin-top: -15px;
     max-width: 100%;
     height: 311px;
-    background: url('../../assets/svg/Rectangle\ 32.svg') no-repeat center top / cover;
+    background: url('../../assets/svg/vectors/Gradient-2.svg.svg') no-repeat center top / cover;
   }
   
   .wrapper-header-block4 {
@@ -352,7 +352,7 @@
     max-width: 1441px;
     height: 350px;
     margin-top: -110px;
-    background: url(../../assets/img/hair-scissors-on-white\ 2.png) no-repeat center top / cover;
+    background: url(../../assets/img/about-salons-photo.png) no-repeat center top / cover;
     z-index: 1;
   }
 
@@ -361,14 +361,14 @@
     margin-top: -194px;
     width: 1441px;
     height: 500px;
-    background: url(../../assets/svg/vectors/Vector\ 3.svg) no-repeat center top / cover;
+    background: url(../../assets/svg/vectors/Vector-3.svg) no-repeat center top / cover;
   }
 
    .gradient3 {
     position: absolute;
     width: 1441px;
     height: 2300px;
-    background: url(../../assets/svg/Rectangle\ 51.svg) no-repeat center top / cover;
+    background: url(../../assets/svg/vector/Gradient-3.svg) no-repeat center top / cover;
   } 
   
   .wrapper-salon-1 {
@@ -386,7 +386,7 @@
     width: 499px;
     height: 541px;
     border-radius: 20px;
-    background: url(../../assets/img/e1db432c-6b3f-4d80-b274-f4823012062d\ 1.png) no-repeat center top / cover;
+    background: url(../../assets/img/photo-salon-1.png) no-repeat center top / cover;
   }
 
   .address-salon-1 {
@@ -454,7 +454,7 @@
     display: flex;
     width: 501px;
     height: 253px;
-    background: url(../../assets/svg/vectors/Vector\ \(4\).svg) no-repeat center top / cover;
+    background: url(../../assets/svg/vectors/Vector-salon-1.svg) no-repeat center top / cover;
   }
 
   .line8 {
@@ -464,7 +464,7 @@
     margin-top: 45px;
     width: 816px;
     border: 6px solid #87547A;
-    background: url(../../assets/svg/lines/Line\ 8.svg) no-repeat center top / cover;
+    background: url(../../assets/svg/lines/Line-8.svg) no-repeat center top / cover;
   }
 
   .wrapper-salon-2 {
@@ -485,7 +485,7 @@
     width: 499px;
     height: 541px;
     border-radius: 20px;
-    background: url(../../assets/img/9ce2ca0a-d4e9-4146-ae6e-9dca6c28b4a5\ 1.png) no-repeat center top / cover;
+    background: url(../../assets/img/photo-salon-2.png) no-repeat center top / cover;
   }
 
   .address-salon-2 {
@@ -554,7 +554,7 @@
     display: flex;
     width: 501px;
     height: 253px;
-    background: url(../../assets/svg/vectors/Vector\ \(5\).svg) no-repeat center top / cover;
+    background: url(../../assets/svg/vectors/Vector-salon-2.svg) no-repeat center top / cover;
   }
 
   .line9 {
@@ -564,7 +564,7 @@
     margin-top: 45px;
     width: 816px;
     border: 6px solid #87547A;
-    background: url(../../assets/svg/lines/Line\ 9.svg) no-repeat center top / cover;
+    background: url(../../assets/svg/lines/Line-9.svg) no-repeat center top / cover;
   }
 
   .wrapper-salon-3 {
@@ -583,7 +583,7 @@
     width: 499px;
     height: 541px;
     border-radius: 20px;
-    background: url(../../assets/img/8f5a41f6-789f-4acb-817d-e6689664ed4c\ 1.png) no-repeat center top / cover;
+    background: url(../../assets/img/photo-salon-3.png) no-repeat center top / cover;
   }
 
   .address-salon-3 {
@@ -649,7 +649,7 @@
     display: flex;
     width: 501px;
     height: 253px;
-    background: url(../../assets/svg/vectors/Vector\ \(6\).svg) no-repeat center top / cover;
+    background: url(../../assets/svg/vectors/Vector-salon-3.svg) no-repeat center top / cover;
   }
 
   .wrapper-futor {
@@ -660,7 +660,7 @@
     margin-top: 99px;
     width: 1441px;
     height: 193px;
-    background: url(../../assets/img/comb-and-scissor-set-copy-space\ 1\ \(1\).png) no-repeat center top/ cover;
+    background: url(../../assets/img/photo-futor.png) no-repeat center top/ cover;
   }
 
   .logo-futor {
