@@ -65,7 +65,7 @@
     .salons-gradient-third {
         width: 1441px;
         height: 131px;
-        background: url('../../assets/svg/Rectangle\ 46\ \(2\).svg') no-repeat center top / cover;
+        background: url('../../assets/svg/vectors/salons-gradient-third.svg') no-repeat center top / cover;
         z-index: 1;
       }
 
@@ -108,7 +108,7 @@
         margin-left: -28px;
         width: 308px;
         height: 79px;
-        background: url(../../assets/svg/lines/Line\ 4.svg) no-repeat center top / cover;
+        background: url(../../assets/svg/lines/Line-4.svg) no-repeat center top / cover;
         z-index: 1;
       }
       .salons-line7-third {
@@ -117,7 +117,7 @@
         margin-left: 35px;
         width: 308px;
         height: 79px;
-        background: url(../../assets/svg/lines/Line\ 4.svg) no-repeat center top / cover;
+        background: url(../../assets/svg/lines/Line-4.svg) no-repeat center top / cover;
         z-index: 1;
       }
 
@@ -127,7 +127,7 @@
         margin-left: 118px;
         width: 308px;
         height: 79px;
-        background: url(../../assets/svg/lines/Line\ 4.svg) no-repeat center top / cover;
+        background: url(../../assets/svg/lines/Line-4.svg) no-repeat center top / cover;
         z-index: 1;
       }
 
@@ -142,7 +142,7 @@
         height: 524px;
         margin-right: -75px;
         border-radius: 20px;
-        background: url(../../assets/img/310e72ee-81ce-4bfc-b7e4-4a6d90123a60\ 1.png) no-repeat center top / cover;
+        background: url(../../assets/img/salons-photo-1-third.png) no-repeat center top / cover;
         z-index: 2;
       }
       .salons-photo-2-third {
@@ -152,7 +152,7 @@
         margin-top: 269px;
         margin-right: -76px;
         border-radius: 20px;
-        background: url(../../assets/img/8f5a41f6-789f-4acb-817d-e6689664ed4c\ 1.png) no-repeat center top / cover;
+        background: url(../../assets/img/photo-salon-3.png) no-repeat center top / cover;
         z-index: 3;
       }
 
@@ -161,7 +161,7 @@
         width: 393px;
         height: 524px;
         border-radius: 20px;
-        background: url(../../assets/img/e064e4ef-9598-4749-9e9b-efab280a69a6\ 1.png) no-repeat center top / cover;
+        background: url(../../assets/img/salons-photo-6-third.png) no-repeat center top / cover;
         z-index: 2;
       }
 
@@ -176,7 +176,7 @@
         width: 287px;
         height: 324px;
         border-radius: 20px;
-        background: url(../../assets/img/8ead3bcd-ba29-43bf-b05a-ab203df42f2c\ 1.png) no-repeat center top / cover;
+        background: url(../../assets/img/salons-photo-3-third.png) no-repeat center top / cover;
         margin-right: 84px;
         z-index: 2;
       }
@@ -185,7 +185,7 @@
         width: 287px;
         height: 324px;
         border-radius: 20px;
-        background: url(../../assets/img/c11b2e68-7c76-4c79-9104-b618a431a663\ 1.png) no-repeat center top / cover;
+        background: url(../../assets/img/salons-photo-4-third.png) no-repeat center top / cover;
         margin-right: 83px;
         z-index: 2;
       }
@@ -194,7 +194,7 @@
         width: 287px;
         height: 324px;
         border-radius: 20px;
-        background: url(../../assets/img/f863bc7b-b9bb-4b61-8fd3-4ec15374abd5\ 1.png) no-repeat center top / cover;
+        background: url(../../assets/img/salons-photo-5-third.png) no-repeat center top / cover;
         z-index: 2;
     }
 
@@ -237,7 +237,7 @@
         width: 287px;
         height: 261px;
         border-radius: 20px;
-        background: url(../../assets/img/a-stylist-pulls-a-woman-s-hair-up\ 1.png) no-repeat center top / cover;
+        background: url(../../assets/img/salons-photo-haircut.png) no-repeat center top / cover;
         z-index: 2;
       }
 
@@ -245,7 +245,7 @@
         margin-top: 48px;
         width: 287px;
         height: 82px;
-        background: url(../../assets/svg/vectors/Rectangle\ 15.svg) no-repeat center top / cover;
+        background: url(../../assets/svg/vectors/salons-haircut-background.svg) no-repeat center top / cover;
         border-radius: 15px;
       }
     
@@ -282,7 +282,7 @@
         height: 261px;
         border-radius: 20px;
         
-        background: url(../../assets/img/woman-mixing-hair-dye-in-a-bowl\ 1.png) no-repeat center top / cover;
+        background: url(../../assets/img/salons-photo-coloring.png) no-repeat center top / cover;
         z-index: 2;
       }
 
@@ -290,7 +290,7 @@
         margin-top: 48px;
         width: 287px;
         height: 82px;
-        background: url(../../assets/svg/vectors/Rectangle\ 15.svg) no-repeat center top / cover;
+        background: url(../../assets/svg/vectors/salons-haircut-background.svg) no-repeat center top / cover;
         border-radius: 15px;
       }
     
@@ -325,7 +325,7 @@
         width: 287px;
         height: 261px;
         border-radius: 20px;
-        background: url(../../assets/img/close-up-image-of-woman-making-hardware-manicure-nail-service-industry-fashion-salon-details-master-of-manicure\ 1.png) no-repeat center top / cover;
+        background: url(../../assets/img/salons-photo-manicure.png) no-repeat center top / cover;
         z-index: 2;
       }
 
@@ -333,7 +333,7 @@
         margin-top: 48px;
         width: 287px;
         height: 82px;
-        background: url(../../assets/svg/vectors/Rectangle\ 15.svg) no-repeat center top / cover;
+        background: url(../../assets/svg/vectors/salons-haircut-background.svg) no-repeat center top / cover;
         border-radius: 15px;
       }
     
@@ -365,7 +365,7 @@
         margin-left: -30px;
         width: 347px;
         height: 721px;
-        background: url(../../assets/svg/vectors/Rectangle\ 20.svg) no-repeat center top / cover;
+        background: url(../../assets/svg/vectors/Rectangle-20.svg) no-repeat center top / cover;
         z-index: 1;
     }
 
@@ -375,7 +375,7 @@
         margin-left: -30px;
         width: 347px;
         height: 721px;
-        background: url(../../assets/svg/vectors/Rectangle\ 20.svg) no-repeat center top / cover;
+        background: url(../../assets/svg/vectors/Rectangle-20.svg) no-repeat center top / cover;
         z-index: 1;
     }
 
@@ -385,15 +385,12 @@
         margin-left: -30px;
         width: 347px;
         height: 721px;
-        background: url(../../assets/svg/vectors/Rectangle\ 20.svg) no-repeat center top / cover;
+        background: url(../../assets/svg/vectors/Rectangle-20.svg) no-repeat center top / cover;
         z-index: 1;
     }
 
     .button-sign-up-4 {
         margin-top: 70px;
-    }
-    .futor-wrapper {
-
     }
 
     .futor-text {

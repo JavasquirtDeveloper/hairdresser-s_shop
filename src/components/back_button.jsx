@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route } from 'react-router-dom'
-import  Arrow1  from '../assets/svg/Arrow1.svg'
+import  Arrow1  from '../assets/svg/vectors/Arrow1.svg'
 
 export default function BackButton() {
   return (
