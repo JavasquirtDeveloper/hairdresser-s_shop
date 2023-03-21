@@ -1,0 +1,406 @@
+.App {
+    text-align: center;
+    align-items: center;
+    margin: 0px auto;
+    
+    }
+    .salons-default-logo-container {
+      text-align: center;
+      align-items: center;
+    }
+    
+    .salons-header-block{
+      height: 100;
+      text-align: start;
+    }
+    .header-background{
+        background-color: #E4DAC5;
+    }
+    .back-button-container {
+      position: absolute;
+      margin-top: 75px;
+      margin-left: 100px;
+    }
+    .back-button {
+      text-align: left;
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 24px;
+      line-height: 33px;
+      color:#87547A;
+    }
+    .back-button-arrow {
+      display: flex;
+      flex-direction: column;
+    }
+    /* .salons-button-arrow {
+      margin-top: 180px;
+      margin-left: 95px;
+      position: absolute;
+      width: 30px;
+      height: 25px;
+      background: url('../../assets/svg/Arrow\ 1.svg') no-repeat center top / cover;
+    } */
+
+    .salons {
+      display: flex;
+      width: 1441px;
+      height: 473px;
+      margin: 0 auto;
+      background: url('../../assets/img/fon_kontakti_1.png') no-repeat center top / cover; 
+    }
+  
+    .salons-header-block-text {
+      display: flex;
+      text-align: center;
+      justify-content: center;
+      font-family: 'Philosopher';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 96px;
+      line-height: 108px;
+      color:#87547A;
+    }
+
+    .salons-vector1 {
+        margin-top: 100px;
+        width: 1441px;
+        height: 92px;
+        background: url('../../assets/svg/vectors/salons_header_vector.svg') no-repeat center top / cover;
+        z-index: 1;
+      }
+      
+    .salons-gradient {
+        width: 1441px;
+        height: 131px;
+        background: url('../../assets/svg/vectors/salons_header_gradient.svg') no-repeat center top / cover;
+        z-index: 1;
+      }
+
+    .salons-header-block2{
+        height: 1000;
+        text-align: start;
+      }
+      .salons-header-block-text2 {
+        text-align: center;
+        align-items: center;
+        margin: 0px auto;
+        width: 658px;
+        height: 144px;
+        font-family: 'Philosopher';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 64px;
+        line-height: 72px;
+        color: #87547A;
+        z-index: 3;
+      }
+      .salons-under-photo-text-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 40px;
+    }
+
+      .salons-under-photo-text {
+        text-align: center;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 34px;
+        color: black;
+      }
+      
+      .salons-line6 {
+        position: absolute;
+        margin-top: -24px;
+        margin-left: -27px;
+        width: 500px;
+        height: 87px;
+        background: url(../../assets/svg/lines/Line\ 4.svg) no-repeat center top / cover;
+        z-index: 1;
+      }
+      .salons-line7 {
+        position: absolute;
+        margin-top: -62px;
+        margin-left: 31px;
+        width: 500px;
+        height: 87px;
+        background: url(../../assets/svg/lines/Line\ 4.svg) no-repeat center top / cover;
+        z-index: 1;
+      }
+
+      .salons-line8 {
+        position: absolute;
+        width: 500px;
+        height: 87px;
+        background: url(../../assets/svg/lines/Line\ 4.svg) no-repeat center top / cover;
+        z-index: 1;
+      }
+
+      .salons-photo-wrapper {
+        margin-top: 56px;
+        display: flex;
+        justify-content: center;
+      }
+      .salons-photo-1 {
+        position: relative;
+        margin-right: 30px;
+        width: 499px;
+        height: 541px;
+        border-radius: 20px;
+        background: url(../../assets/img/stylist-cuts-long-hair\ 1.png) no-repeat center top / cover;
+        z-index: 2;
+      }
+
+      .salons-photo-2 {
+        position: relative;
+        width: 499px;
+        height: 541px;
+        border-radius: 20px;
+        background: url(../../assets/img/e1db432c-6b3f-4d80-b274-f4823012062d\ 1.png) no-repeat center top / cover;
+        z-index: 2;
+      }
+
+      .salons-photo-wrapper-2 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 40px;
+      }
+
+      .salons-photo-3 {
+        width: 287px;
+        height: 354px;
+        border-radius: 20px;
+        background: url(../../assets/img/401244d1-e6bb-45a9-8fc2-ad2779359028\ 1.png) no-repeat center top / cover;
+        margin-right: 84px;
+        z-index: 2;
+      }
+
+      .salons-photo-4 {
+        width: 287px;
+        height: 354px;
+        border-radius: 20px;
+        background: url(../../assets/img/03dd3e7a-330d-4e11-a7f5-ae33e40d2678\ 1.png) no-repeat center top / cover;
+        margin-right: 83px;
+        z-index: 2;
+      }
+
+      .salons-photo-5 {
+        width: 287px;
+        height: 354px;
+        border-radius: 20px;
+        background: url(../../assets/img/401244d1-e6bb-45a9-8fc2-ad2779359028\ 2.png) no-repeat center top / cover;
+        z-index: 2;
+    }
+
+    .salons-header-block3 {
+        height: 1000;
+        text-align: center;
+    }
+    .salons-wrapper-header-block3 {
+        text-align: center;
+        align-items: center;
+        margin: 0px auto;
+      }
+      
+      .salons-header-block-text3 {
+        margin: 0px auto;
+        margin-top: 76px;
+        font-family: 'Philosopher';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 96px;
+        line-height: 108px;
+        color: #87547A;
+      }
+
+ 
+      
+      .salons-services-wrapper{
+        display: flex;    
+        justify-content: center;
+        margin-top: 36px;
+      }
+      
+      .salons-haircut {                                  
+        flex-direction: column;
+        margin-right: 84px;
+      }
+
+      .salons-photo-haircut {
+        position: relative;
+        width: 287px;
+        height: 261px;
+        border-radius: 20px;
+        background: url(../../assets/img/a-stylist-pulls-a-woman-s-hair-up\ 1.png) no-repeat center top / cover;
+        z-index: 2;
+      }
+
+      .salons-haircut-background {
+        margin-top: 48px;
+        width: 287px;
+        height: 82px;
+        background: url(../../assets/svg/vectors/Rectangle\ 15.svg) no-repeat center top / cover;
+        border-radius: 15px;
+      }
+    
+      .salons-haircut-text {
+        align-items: center;
+        justify-content: center;
+        padding-top: 23px;
+        font-family: 'Philosopher';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 40px;
+        color: black;
+      }
+
+      .salons-haircut-price-text {
+        text-align: left;
+        margin-top: 13px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.4px;
+        line-height: 27px;
+        color: black;
+      }
+
+      .salons-coloring {          
+        flex-direction: column;
+        margin-right: 83px;
+      }
+      .salons-photo-coloring {
+        position: relative;
+        width: 287px;
+        height: 261px;
+        border-radius: 20px;
+        
+        background: url(../../assets/img/woman-mixing-hair-dye-in-a-bowl\ 1.png) no-repeat center top / cover;
+        z-index: 2;
+      }
+
+      .salons-coloring-background {
+        margin-top: 48px;
+        width: 287px;
+        height: 82px;
+        background: url(../../assets/svg/vectors/Rectangle\ 15.svg) no-repeat center top / cover;
+        border-radius: 15px;
+      }
+    
+      .salons-coloring-text {
+        align-items: center;
+        justify-content: center;
+        padding-top: 23px;
+        font-family: 'Philosopher';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 40px;
+        color: black;
+      }
+
+      .salons-coloring-price-text {
+        text-align: left;
+        margin-top: 13px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.5px;
+        line-height: 27px;
+        color: black;
+      }
+
+      .salons-manicure {                                  
+        flex-direction: column;
+      }
+      .salons-photo-manicure {
+        position: relative;
+        width: 287px;
+        height: 261px;
+        border-radius: 20px;
+        background: url(../../assets/img/close-up-image-of-woman-making-hardware-manicure-nail-service-industry-fashion-salon-details-master-of-manicure\ 1.png) no-repeat center top / cover;
+        z-index: 2;
+      }
+
+      .salons-manicure-background {
+        margin-top: 48px;
+        width: 287px;
+        height: 82px;
+        background: url(../../assets/svg/vectors/Rectangle\ 15.svg) no-repeat center top / cover;
+        border-radius: 15px;
+      }
+    
+      .salons-manicure-text {
+        align-items: center;
+        justify-content: center;
+        padding-top: 23px;
+        font-family: 'Philosopher';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 40px;
+        color: black;
+      }
+
+      .salons-manicure-price-text {
+        text-align: left;
+        margin-top: 13px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15.5px;
+        line-height: 27px;
+        color: black;
+      }
+      .rectangle-1 {
+        position: absolute;
+        margin-top: -150px;
+        margin-left: -30px;
+        width: 347px;
+        height: 721px;
+        background: url(../../assets/svg/vectors/Rectangle\ 20.svg) no-repeat center top / cover;
+        z-index: 1;
+    }
+
+      .rectangle-2 {
+        position: absolute;
+        margin-top: -150px;
+        margin-left: -30px;
+        width: 347px;
+        height: 721px;
+        background: url(../../assets/svg/vectors/Rectangle\ 20.svg) no-repeat center top / cover;
+        z-index: 1;
+    }
+
+      .rectangle-3 {
+        position: absolute;
+        margin-top: -150px;
+        margin-left: -30px;
+        width: 347px;
+        height: 721px;
+        background: url(../../assets/svg/vectors/Rectangle\ 20.svg) no-repeat center top / cover;
+        z-index: 1;
+    }
+
+    .button-sign-up-4 {
+        margin-top: 70px;
+    }
+    .futor-wrapper {
+
+    }
+
+    .futor-text {
+        margin-top: 13px;
+
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 19px;
+    } 
